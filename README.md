@@ -22,7 +22,7 @@ O projeto é composto de três arquivos, além deste README:
 8. Realizando configurações específicas com a função ```mpf.make_mpf_style()```;
 9. Incluindo gráficos com a função ```mpf.addplot```;
     
-Fontes de Pesquisa:
+## **Fontes de Pesquisa:**
 * [Aula 4 - Candlesticks e sinais no Python - Python para Finanças Quantitativas](https://www.youtube.com/watch?v=PiS7WYe6q-w&t=1171s)
 * [How to plot a candlestick chart in python. It's very easy!](https://www.youtube.com/watch?v=GcXgxfbcFrQ)
 
