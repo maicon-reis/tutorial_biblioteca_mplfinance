@@ -5,13 +5,13 @@ Este tutorial foi inspirado em uma aula do professor Leandro Guerra cujo link en
 ### **Objetivo:**
 O objetivo deste tutorial é auxiliar estudantes da análise de dados financeiros à construir gráficos de *candlestick* de forma simples com a biblioteca mplfinance.
 
-##**Composição:**
+## **Composição:**
 O projeto é composto de três arquivos, além deste README:
 * O primeiro contém uma função que coleta os dados financeiros de uma empresa preestabelecida, realiza o tratamento e a inclusão de um indicador chamado bandas de bollinger e de marcadores e realizar a persistência em disco destas tarefas;
 * O Segundo é o arquivo criado e persistido em dico em formato joblib;
 * Por fim, o terceiro arquivo contém o tutorial de utilização da biblioteca mplfinance.
 
-##**Sumário:**
+## **Sumário:**
 1. Criação de gráfico simples, por padrão o gráfico é gerado no padrão de gráfico de barras;
 2. Criação de gráfico de linhas: ```type="line"```;
 3. Criação de gráfico com volume: ```volume=True```;
